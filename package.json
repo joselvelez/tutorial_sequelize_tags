@@ -1,0 +1,19 @@
+{
+  "name": "tutorial_sequelize_tags",
+  "version": "1.0.0",
+  "description": "Tutorial from the Discord.js Guide at https://discordjs.guide/sequelize/currency.html#theta-display-the-shop ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joselvelez/tutorial_sequelize_tags.git"
+  },
+  "author": "Jose L. Velez",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/joselvelez/tutorial_sequelize_tags/issues"
+  },
+  "homepage": "https://github.com/joselvelez/tutorial_sequelize_tags#readme"
+}
